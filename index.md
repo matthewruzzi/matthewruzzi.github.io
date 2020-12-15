@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/mattruzzi/mattruzzi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mattruzzi/mattruzzi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<table>
+    <tr>
+        <td>
+            <img src="ytontv.png" height="64" />
+        </td>
+        <td>
+            <h2><a href="https://github.com/mattruzzi/Nativefier-YouTube-on-TV-for-Desktop">Nativefier YouTube on TV
+                    for
+                    Desktop</a></h2>
+            Run the smart TV version of the YouTube app on a desktop computer.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="wave.png" height="64" />
+        </td>
+        <td>
+            <h2><a href="https://github.com/mattruzzi/Wave-Extension">Wave - Reactions for Google Meet</a></h2>
+            Quick emoji reactions for Google Meet.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="classroom_sidebar.png" height="64" />
+        </td>
+        <td>
+            <h2><a href="https://github.com/mattruzzi/Google-Classroom-To-do-Firefox-Sidebar">Google Classroom To-do
+                    Sidebar</a></h2>
+            Adds a button that shows Google Classroom To-do in the Firefox sidebar.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="chat_sidebar.png" height="64" />
+        </td>
+        <td>
+            <h2><a href="https://github.com/mattruzzi/Google-Chat-Firefox-Sidebar">
+                    Google Chat Firefox Sidebar</a></h2>
+            Adds a button that shows Google Chat in the Firefox sidebar.
+        </td>
+    </tr>
+</table>
