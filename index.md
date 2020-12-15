@@ -8,7 +8,7 @@ layout: default
             <img src="ytontv.png" height="64" />
         </td>
         <td>
-            <h2><a href="https://github.com/mattruzzi/Nativefier-YouTube-on-TV-for-Desktop">Nativefier YouTube on TV
+            <h2><a href="https://mattruzzi.github.io/Nativefier-YouTube-on-TV-for-Desktop/">Nativefier YouTube on TV
                     for
                     Desktop</a></h2>
             Run the smart TV version of the YouTube app on a desktop computer.
