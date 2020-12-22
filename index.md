@@ -19,7 +19,7 @@ layout: default
             <img src="wave.png" height="64" />
         </td>
         <td>
-            <h2><a href="https://github.com/mattruzzi/Wave-Extension">Wave - Reactions for Google Meet</a></h2>
+            <h2><a href="https://mattruzzi.github.io/Wave-Extension/">Wave - Reactions for Google Meet</a></h2>
             Quick emoji reactions for Google Meet.
         </td>
     </tr>
