@@ -5,6 +5,15 @@ layout: default
 <table>
     <tr>
         <td>
+            <img src="nativefier.png" height="64" />
+        </td>
+        <td>
+            <h2><a href="https://mattruzzi.github.io/nativefier-gui/">Nativefier Gui</a></h2>
+            Graphical user interface for nativefier. Make any web page a desktop application. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="ytontv.png" height="64" />
         </td>
         <td>
