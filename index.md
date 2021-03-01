@@ -5,6 +5,15 @@ layout: default
 <table>
     <tr>
         <td>
+            <img src="electron_background.png" height="64" />
+        </td>
+        <td>
+            <h2><a href="https://github.com/mattruzzi/electron-desktop-background">Electron Desktop Background</a></h2>
+            Set any webpage as your desktop background.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="nativefier.png" height="64" />
         </td>
         <td>
