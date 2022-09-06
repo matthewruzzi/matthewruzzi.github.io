@@ -48,7 +48,7 @@ layout: default
         <td>
             <h2><a href="https://github.com/mattruzzi/Google-Classroom-To-do-Firefox-Sidebar">Google Classroom To-do
                     Sidebar</a></h2>
-            Adds a button that shows Google Classroom To-do in the Firefox sidebar.
+            View your Google Classroom To-do list in the Firefox sidebar.
         </td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@ layout: default
         <td>
             <h2><a href="https://github.com/mattruzzi/Google-Chat-Firefox-Sidebar">
                     Google Chat Firefox Sidebar</a></h2>
-            Adds a button that shows Google Chat in the Firefox sidebar.
+            Use Google Chat in the Firefox sidebar.
         </td>
     </tr>
 </table>
